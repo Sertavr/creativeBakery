@@ -23,7 +23,6 @@ Its purpose is to demonstrate clean design, responsive layout, and interactive e
 
 ## 🚀 Installation & Usage
 
-## 🚀 Installation & Usage
 ```bash
    git clone https://github.com/Sertavr/creativeBakery.git
    cd creativeBakery
