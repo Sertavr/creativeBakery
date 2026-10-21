@@ -5,30 +5,12 @@ The project highlights the bakery’s products, atmosphere, and visual identity,
 Its purpose is to demonstrate clean design, responsive layout, and interactive elements that can serve both as a brand showcase and a learning example for web development.
 
 
-- [DEMO LINK](https://sertavr.github.io/creativeBakery/)
-
 ## Technical Requirements
 To run this project, you will need:
 
   - **Node.js (version 14.x or newer)** – Required runtime for Parcel and modern build tools.
   - **npm (version 6.x or newer)** – Package manager to install and manage dependencies.
 
-
-## Technologies Used
-
-- **HTML5** - For structuring the content on the web page, ensuring semantic and accessible markup.
-- **CSS3** - For styling the web page, including layout and responsive design features.
-- **Sass** – CSS preprocessor enabling variables, mixins, and modular styling for maintainable code.
-- **JavaScript (ES6+)** – Core language for implementing interactive features and logic.
-- **Parcel** – A fast, zero‑configuration bundler used to build and optimize the project.
-- **@parcel/transformer-sass** – Parcel plugin that compiles SCSS/SASS files into CSS.
-- **AOS (Animate On Scroll)** – Lightweight library for adding smooth scroll‑based animations.
-- **ESLint** – Static code analysis tool to enforce coding standards and detect issues.
-- **Prettier** – Code formatter ensuring consistent style across the project.
-- **Stylelint** – Linter for stylesheets, helping maintain clean and consistent CSS/SCSS.
-- **stylelint-scss** – Additional Stylelint rules designed for SCSS syntax.
-- **Git** - For version control, tracking changes to the codebase.
-- **GitHub** - For hosting the repository, collaborative development, and project management.
 
 ## Installation and Setup
 
@@ -52,8 +34,36 @@ To run this project, you will need:
    npm start
   ```
 
+## Features
+  **Responsive Design:** - This page is fully responsive and works seamlessly across devices — optimized for **mobile phones**, **tablets**, and **desktop screens**.
+
+  **Interactive Elements:** - JavaScript is used to enhance user interaction, for example by adding scroll‑based animations with the **AOS (Animate On Scroll)** library.
+
+  **Modern Aesthetics** - Utilizes modern web design practices to ensure a visually appealing experience.
+
+## Example
+You can view a live demo of the project here: - [DEMO LINK](https://sertavr.github.io/creativeBakery/)
+
+
 ## Usage
 After starting the project, it will be available at http://localhost:8080. You can use this URL to preview the landing page and ensure it displays correctly. You can also make changes to the project files and see updates in real-time.
+
+
+## Technologies Used
+
+- **HTML5** - For structuring the content on the web page, ensuring semantic and accessible markup.
+- **CSS3** - For styling the web page, including layout and responsive design features.
+- **Sass** – CSS preprocessor enabling variables, mixins, and modular styling for maintainable code.
+- **JavaScript (ES6+)** – Core language for implementing interactive features and logic.
+- **Parcel** – A fast, zero‑configuration bundler used to build and optimize the project.
+- **@parcel/transformer-sass** – Parcel plugin that compiles SCSS/SASS files into CSS.
+- **AOS (Animate On Scroll)** – Lightweight library for adding smooth scroll‑based animations.
+- **ESLint** – Static code analysis tool to enforce coding standards and detect issues.
+- **Prettier** – Code formatter ensuring consistent style across the project.
+- **Stylelint** – Linter for stylesheets, helping maintain clean and consistent CSS/SCSS.
+- **stylelint-scss** – Additional Stylelint rules designed for SCSS syntax.
+- **Git** - For version control, tracking changes to the codebase.
+- **GitHub** - For hosting the repository, collaborative development, and project management.
 
 
 ## Contribution Guidelines
